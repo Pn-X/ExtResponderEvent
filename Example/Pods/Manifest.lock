@@ -1,0 +1,16 @@
+PODS:
+  - ExtResponderEvent (0.0.1)
+
+DEPENDENCIES:
+  - ExtResponderEvent (from `../`)
+
+EXTERNAL SOURCES:
+  ExtResponderEvent:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ExtResponderEvent: 381432924b48b191dcd83bbb959c13253597ffdc
+
+PODFILE CHECKSUM: e915ebb145f11fff4c7bf6838cf1b68759076322
+
+COCOAPODS: 1.9.3
